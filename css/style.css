@@ -974,6 +974,10 @@ footer .wrap .wrap_in .icon {
     align-items: end;
 }
 
+footer .wrap .wrap_in .icon li a img:hover{
+    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.5));
+}
+
 footer .allright {
     width: 1318px;
     margin: 5px auto 0;
